@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine learning project to predict the Last Traded Price (LTP) of a stock using historical data. Multiple models, including Linear Regression, Random Forest, and Gradient Boosting, were explored. GridSearchCV was used for hyperparameter tuning, and predictions were made on unseen data.
+This repository contains the code and resources for a machine learning project aimed at predicting the Last Traded Price (LTP) of a stock using historical data. The project explores multiple machine learning models, including Linear Regression, Random Forest, Gradient Boosting, SVR, MLP, and AdaBoost, to identify the best-performing model for this task. The final model is selected using GridSearchCV for hyperparameter tuning, and predictions are made on unseen data.
