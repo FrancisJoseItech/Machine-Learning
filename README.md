@@ -1,5 +1,5 @@
 # Machine-Learning
-Project Title: Last Traded Price(LTP) Prediction of Financial Data
+Machine Learning Project: Predicting Last Traded Price (LTP)
 Project Overview
 This project focuses on analyzing and predicting the Last Traded Price (LTP) of financial instruments using various machine learning techniques. The project involves extensive data preprocessing, feature engineering, and the application of advanced regression models to build a robust predictive model. The pipeline developed ensures consistency across datasets and prepares the data for accurate predictions.
 
